@@ -94,6 +94,10 @@ a {
     grid-template-columns: repeat(auto-fit, 360px);
 }
 
+.grid img {
+    height: 300px;
+}
+
 .adds_heading {
     text-align: center;
     margin-top: 4em;
